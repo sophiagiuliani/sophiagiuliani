@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Product and Marketing Analytics**
 
-- 👯 I’m ready to **Rstart working on projects to help making data driven decisions**
+- 👯 I’m ready to **start working on projects to help making data driven decisions**
 
 - 👨‍💻 You can check my projects on [https://github.com/sophiagiuliani/Projects](https://github.com/sophiagiuliani/Projects)
 
