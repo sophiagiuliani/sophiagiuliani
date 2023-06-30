@@ -8,7 +8,7 @@
 
 - 👯 I’m ready to **start working on projects to help making data driven decisions**
 
-- 👨‍💻 You can check my projects on [https://github.com/sophiagiuliani/Projects](https://github.com/sophiagiuliani/Projects)
+- 👨‍💻 You can check my projects on [my repository](https://github.com/sophiagiuliani?tab=repositories)
 
 - 📫 How to reach me: **sophia.giuliani.silveira@gmail.com**
 
