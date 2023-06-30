@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **sophia.giuliani.silveira@gmail.com**
 
-- ⚡ Fun fact: **I wanted be a judge but turns out I was just interested in exploratory analysis**
+- ⚡ Fun fact: **I wanted be a judge but turns out I was just interested in exploratory analysis** 
 
 
 ![](https://github.com/sophiagiuliani/gif/blob/main/giphy%20(1).gif)
