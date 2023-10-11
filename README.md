@@ -4,7 +4,7 @@
 
 - 🔭 I’m studying at **Turing College**
 
-- 🌱 I’m currently learning **Product and Marketing Analytics**
+- 🌱 I’m currently learning **Finance Analytics**
 
 - 👯 I’m ready to **start working on projects to help making data driven decisions**
 
